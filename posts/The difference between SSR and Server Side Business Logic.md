@@ -1,4 +1,4 @@
-React Server is not a SSR tool. It's a serverside framework. The difference is that React Server facilitates _serverside business logic_ not _serverside rendering_.
+React Server is not meant to be a SSR tool. It's a serverside framework. The difference is that React Server facilitates _serverside business logic_, not _serverside rendering_.
 
 ## Why is React Server not doing SSR?
 
